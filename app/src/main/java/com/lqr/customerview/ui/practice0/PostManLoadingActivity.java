@@ -1,11 +1,11 @@
-package com.lqr.customerview.ui;
+package com.lqr.customerview.ui.practice0;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
 import com.lqr.customerview.R;
-import com.lqr.customerview.widget.PostManLoadingView;
+import com.lqr.customerview.widget.practice0.PostManLoadingView;
 
 
 public class PostManLoadingActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package com.lqr.customerview.ui;
+package com.lqr.customerview.ui.practice0;
 
 import android.animation.ValueAnimator;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.util.Log;
 import android.view.animation.LinearInterpolator;
 
 import com.lqr.customerview.R;
-import com.lqr.customerview.widget.CircleProgressView;
+import com.lqr.customerview.widget.practice0.CircleProgressView;
 
 
 public class CircleProgressActivity extends AppCompatActivity {

@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.MainActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -17,11 +17,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.CircleProgressActivity"
+            android:name=".ui.practice0.CircleProgressActivity"
             android:screenOrientation="portrait">
         </activity>
         <activity
-            android:name=".ui.PostManLoadingActivity"
+            android:name=".ui.practice0.PostManLoadingActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".ui.practice1.PracticeDrawActivity1"
             android:screenOrientation="portrait">
         </activity>
     </application>

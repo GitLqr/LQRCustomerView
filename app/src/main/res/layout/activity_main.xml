@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.lqr.customerview.ui.MainActivity">
+    tools:context="com.lqr.customerview.MainActivity">
 
     <Button
         android:layout_width="wrap_content"
@@ -20,6 +20,13 @@
         android:layout_height="wrap_content"
         android:onClick="PostManLoadingView"
         android:text="PostManLoadingView"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="PracticeDrawActivity1"
+        android:text="基本功练习1"
         android:textAllCaps="false"/>
 
 </LinearLayout>

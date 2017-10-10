@@ -1,4 +1,4 @@
-package com.lqr.customerview.widget;
+package com.lqr.customerview.widget.practice0;
 
 import android.content.Context;
 import android.content.res.TypedArray;
