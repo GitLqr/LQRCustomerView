@@ -28,6 +28,11 @@
             android:name=".ui.practice1.PracticeDrawActivity1"
             android:screenOrientation="portrait">
         </activity>
+        <activity
+            android:name=".ui.practice2.PracticeDrawActivity2"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="portrait">
+        </activity>
     </application>
 
 </manifest>

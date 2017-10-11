@@ -8,6 +8,7 @@ import android.view.View;
 import com.lqr.customerview.ui.practice0.CircleProgressActivity;
 import com.lqr.customerview.ui.practice0.PostManLoadingActivity;
 import com.lqr.customerview.ui.practice1.PracticeDrawActivity1;
+import com.lqr.customerview.ui.practice2.PracticeDrawActivity2;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -27,5 +28,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void PracticeDrawActivity1(View view) {
         startActivity(new Intent(this, PracticeDrawActivity1.class));
+    }
+
+    public void PracticeDrawActivity2(View view) {
+        startActivity(new Intent(this, PracticeDrawActivity2.class));
     }
 }
