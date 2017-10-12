@@ -43,6 +43,10 @@
             android:hardwareAccelerated="false"
             android:screenOrientation="portrait">
         </activity>
+        <activity
+            android:name=".ui.practice5.PracticeDrawActivity5"
+            android:screenOrientation="portrait">
+        </activity>
     </application>
 
 </manifest>
