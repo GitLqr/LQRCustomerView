@@ -38,6 +38,11 @@
             android:hardwareAccelerated="false"
             android:screenOrientation="portrait">
         </activity>
+        <activity
+            android:name=".ui.practice4.PracticeDrawActivity4"
+            android:hardwareAccelerated="false"
+            android:screenOrientation="portrait">
+        </activity>
     </application>
 
 </manifest>
