@@ -51,6 +51,10 @@
             android:name=".ui.practice6.PracticeDrawActivity6"
             android:screenOrientation="portrait">
         </activity>
+        <activity
+            android:name=".ui.practice7.PracticeDrawActivity7"
+            android:screenOrientation="portrait">
+        </activity>
     </application>
 
 </manifest>

@@ -64,4 +64,11 @@
         android:text="基本功练习6"
         android:textAllCaps="false"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="PracticeDrawActivity7"
+        android:text="基本功练习7"
+        android:textAllCaps="false"/>
+
 </LinearLayout>
