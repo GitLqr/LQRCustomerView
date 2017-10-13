@@ -12,6 +12,7 @@ import com.lqr.customerview.ui.practice2.PracticeDrawActivity2;
 import com.lqr.customerview.ui.practice3.PracticeDrawActivity3;
 import com.lqr.customerview.ui.practice4.PracticeDrawActivity4;
 import com.lqr.customerview.ui.practice5.PracticeDrawActivity5;
+import com.lqr.customerview.ui.practice6.PracticeDrawActivity6;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -47,5 +48,9 @@ public class MainActivity extends AppCompatActivity {
 
     public void PracticeDrawActivity5(View view) {
         startActivity(new Intent(this, PracticeDrawActivity5.class));
+    }
+
+    public void PracticeDrawActivity6(View view) {
+        startActivity(new Intent(this, PracticeDrawActivity6.class));
     }
 }
